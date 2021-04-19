@@ -4,7 +4,6 @@
 
 class GameScene : public Scene {
  public:
-  // Creates our Scene.
   GameScene();
 };
 
