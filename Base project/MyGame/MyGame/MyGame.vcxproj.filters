@@ -67,5 +67,35 @@
     <Image Include="Resources\meteor.png">
       <Filter>Resources</Filter>
     </Image>
+    <Image Include="..\..\..\Art\explosion01.png">
+      <Filter>Resources</Filter>
+    </Image>
+    <Image Include="..\..\..\Art\explosion02.png">
+      <Filter>Resources</Filter>
+    </Image>
+    <Image Include="..\..\..\Art\explosion03.png">
+      <Filter>Resources</Filter>
+    </Image>
+    <Image Include="..\..\..\Art\explosion04.png">
+      <Filter>Resources</Filter>
+    </Image>
+    <Image Include="..\..\..\Art\explosion05.png">
+      <Filter>Resources</Filter>
+    </Image>
+    <Image Include="..\..\..\Art\explosion06.png">
+      <Filter>Resources</Filter>
+    </Image>
+    <Image Include="..\..\..\Art\explosion07.png">
+      <Filter>Resources</Filter>
+    </Image>
+    <Image Include="..\..\..\Art\explosion08.png">
+      <Filter>Resources</Filter>
+    </Image>
+    <Image Include="..\..\..\Art\explosion09.png">
+      <Filter>Resources</Filter>
+    </Image>
+    <Image Include="..\..\..\Art\explosion-spritesheet.png">
+      <Filter>Resources</Filter>
+    </Image>
   </ItemGroup>
 </Project>

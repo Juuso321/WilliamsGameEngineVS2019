@@ -3,9 +3,9 @@
 
 class Explosion :public AnimatedSprite
 {
-	public
+public:
 		Explosion(sf::Vector2f pos);
-	void update(sf::Time& elapsed);
+		void update(sf::Time& elapsed);
 private:
 	void SetUpExplosionAnimation();
 };

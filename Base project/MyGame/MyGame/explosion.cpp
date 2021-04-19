@@ -8,6 +8,7 @@ Explosion::Explosion(sf::Vector2f pos)
 }
 void Explosion::SetUpExplosionAnimation()
 {
+	playanimation("explosion", AnimationMode::OnceForwards);
 	std::vector<sf::IntRect> frames;
 	frames.push_back(sf::IntRect(0, 0, 64, 64)); // frame 1
 	frames.push_back(sf::IntRect(64, 0, 64, 64)); // frame 2
