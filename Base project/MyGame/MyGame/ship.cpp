@@ -1,4 +1,4 @@
-#include "Ship.h"
+#include "ship.h"
 #include <memory>
 #include "laser.h"
 const float SPEED = 0.3f;

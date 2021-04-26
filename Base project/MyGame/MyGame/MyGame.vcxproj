@@ -112,15 +112,6 @@
   </ItemGroup>
   <ItemGroup>
     <Image Include="..\..\..\Art\explosion-spritesheet.png" />
-    <Image Include="..\..\..\Art\explosion01.png" />
-    <Image Include="..\..\..\Art\explosion02.png" />
-    <Image Include="..\..\..\Art\explosion03.png" />
-    <Image Include="..\..\..\Art\explosion04.png" />
-    <Image Include="..\..\..\Art\explosion05.png" />
-    <Image Include="..\..\..\Art\explosion06.png" />
-    <Image Include="..\..\..\Art\explosion07.png" />
-    <Image Include="..\..\..\Art\explosion08.png" />
-    <Image Include="..\..\..\Art\explosion09.png" />
     <Image Include="..\..\..\Art\ship.png" />
     <Image Include="Resources\laser.png" />
     <Image Include="Resources\meteor.png" />
