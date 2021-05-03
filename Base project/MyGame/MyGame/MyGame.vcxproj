@@ -111,6 +111,7 @@
     <None Include="Resources\README.md" />
   </ItemGroup>
   <ItemGroup>
+    <Image Include="..\..\..\Art\explosion-spritesheet.png" />
     <Image Include="..\..\..\Art\ship.png" />
     <Image Include="Resources\laser.png" />
     <Image Include="Resources\meteor.png" />
