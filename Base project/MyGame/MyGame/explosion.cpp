@@ -27,4 +27,4 @@ void Explosion::update(sf::Time& elapsed)
 	{
 		makeDead();
 	}
-}
+      }
