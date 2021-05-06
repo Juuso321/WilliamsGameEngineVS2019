@@ -20,6 +20,7 @@
     <ClCompile Include="meteor.cpp" />
     <ClCompile Include="meteorspawner.cpp" />
     <ClCompile Include="explosion.cpp" />
+    <ClCompile Include="Score.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Engine\AnimatedSprite.h">
@@ -43,6 +44,7 @@
     <ClInclude Include="meteor.h" />
     <ClInclude Include="meteorspawner.h" />
     <ClInclude Include="explosion.h" />
+    <ClInclude Include="Score.h" />
   </ItemGroup>
   <ItemGroup>
     <Filter Include="Engine">
@@ -75,5 +77,10 @@
     <Media Include="Resources\boom.wav">
       <Filter>Resources</Filter>
     </Media>
+  </ItemGroup>
+  <ItemGroup>
+    <Font Include="Resources\Courneuf-Regular.ttf">
+      <Filter>Resources</Filter>
+    </Font>
   </ItemGroup>
 </Project>

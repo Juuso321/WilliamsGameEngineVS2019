@@ -91,6 +91,7 @@
     <ClCompile Include="meteor.cpp" />
     <ClCompile Include="meteorspawner.cpp" />
     <ClCompile Include="MyGame.cpp" />
+    <ClCompile Include="Score.cpp" />
     <ClCompile Include="ship.cpp" />
     <ClCompile Include="laser.cpp" />
   </ItemGroup>
@@ -105,6 +106,7 @@
     <ClInclude Include="laser.h" />
     <ClInclude Include="meteor.h" />
     <ClInclude Include="meteorspawner.h" />
+    <ClInclude Include="Score.h" />
     <ClInclude Include="ship.h" />
   </ItemGroup>
   <ItemGroup>
@@ -118,6 +120,9 @@
   </ItemGroup>
   <ItemGroup>
     <Media Include="Resources\boom.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <Font Include="Resources\Courneuf-Regular.ttf" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
