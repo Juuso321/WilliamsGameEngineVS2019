@@ -5,10 +5,15 @@
 class GameScene : public Scene {
  public:
   GameScene();
+  int getLives();
+  
+  void decreaseLives();
 
   int getScore();
   void increaseScore();
 private:
+	int lives_ = 3;
+
 	int score_ = 0;
 };
 
